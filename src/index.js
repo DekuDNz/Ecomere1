@@ -10,7 +10,6 @@ import { ChakraProvider } from "@chakra-ui/react";
 // import App from "./App";s
 // import Footer from "./Nike/Dashboard/Footer";
 import App from "./App";
-import Footer from "./Nike/Dashboard/Footer";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
