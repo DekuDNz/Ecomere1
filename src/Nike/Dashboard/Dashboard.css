@@ -1,0 +1,16 @@
+.headerItem {
+  position: relative;
+  margin-right: 12px;
+}
+.headerword {
+  font-weight: 500;
+}
+.headerItem::before {
+  position: absolute;
+  content: "";
+  width: 1.5px;
+  background-color: black;
+  height: 45%;
+  right: -5px;
+  top: 7px;
+}
